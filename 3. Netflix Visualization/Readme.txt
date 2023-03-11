@@ -1,1 +1,1 @@
-
+In this project, I have done some data analysis of the Netflix data on various movies and tv shows by visualizing them using different python modules. I used Python and the Pandas, Matplotlib and Seaborn library for this project.
