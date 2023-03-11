@@ -1,0 +1,1 @@
+This was a freelance project that I did where I did Exploratory data analysis(EDA) on the data and fixed and preprocessed the data and then utilized the relevant data and deployed a deep learning sequential model to predict some of the outputs with 87% accuracy.
