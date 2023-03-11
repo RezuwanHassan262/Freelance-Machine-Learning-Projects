@@ -1,1 +1,1 @@
-This was a freelance project that I did where I did Exploratory data analysis(EDA) on the data and utilized the relevant data and deployed a deep learning sequential model to predict some of the outputs.
+This was a freelance project that I did where I did Exploratory data analysis(EDA) on the data using few relevanrt libraries and utilized the relevant data and deployed a deep learning sequential model using tensorflow to predict some of the outputs based on few queries.
